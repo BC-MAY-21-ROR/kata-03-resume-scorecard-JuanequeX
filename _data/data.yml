@@ -12,11 +12,11 @@ sidebar:
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: ramon.g.uz37@gamil.com
+  email: ramon.g.uz37@gmail.com
   phone:  314-142-28-86
   website: # No agregar http://
-  linkedin: brightcoders
-  github: juanequex
+  linkedin: Juan Ramon Guzman Aguilar
+  github: Juanequex
   gitlab:
   bitbucket:
   twitter: '@Juanequex'
@@ -57,8 +57,7 @@ educationcomplete:
     university: University of Colima
     time: 2018 - current
     details: |
-      Software enginnering
-        - Thesis topic: E-commerce development with open source for local startups
+      Thesis topic: E-commerce development with Solidus open source for local startups
 
   - degree: Bachelor Degree
     university: Bachillerato No. 8 UCOL
