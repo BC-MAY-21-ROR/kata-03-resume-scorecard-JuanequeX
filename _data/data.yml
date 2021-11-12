@@ -43,13 +43,28 @@ sidebar:
     - item: Conflict Resolution
       link: # dejar en blanco
 
+    - item: Self-taught
+      link: # dejar en blanco
+
+    - item: Adaptability
+      link: # dejar en blanco
+
+    - item: Remote Culture
+      link: # dejar en blanco
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I'm passionate about technology, photography, skateboarding and creanting
-    visual content for brands in social media. i get inspiration from the sea
-    and in the nature to create and innovate in the enviroment that surronds me.
+    I have some experience using frameworks like Ruby on rails and React JS to build e-commerce
+    platforms consume services by the api's from Solidus.
+
+    In my time in bright coders academy, I developed a closer relationship to remote work culture,
+    adapted myself to work with different co-workers to develop some projects using scrum methodology
+    to improve ours communication and collaborative in the projects carried out.
+
+    Also I was created tests using rspec in models and controllers into our final project in bright coders,
+    for to do this i'm used information provide by FactoryBot and Faker.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -57,21 +72,29 @@ educationcomplete:
     university: University of Colima
     time: 2018 - current
     details: |
-      Thesis topic: E-commerce development with Solidus open source for local startups
+      Thesis topic: E-commerce development with Solidus open source for local startup.
 
-  - degree: Bachelor Degree
+  - degree: High school
     university: Bachillerato No. 8 UCOL
     time: 2014 - 2017
     details: |
-      Technical analyst programmer
+      Technical analyst programmer.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Co-founder
-    time: 2019 - Present
-    company: Untitled Brand
+  - role: Ruby on Rails Web Developer
+    time: 2021 - 2021
+    company: Bright Coders Academy
     details: |
-      I am in charge of making clothes, maintaining our web systems and carrying
+      I was part of a trainee program in which, together with a team of developers,
+      we received training on Ruby / Ruby on Rails, Git and Github, Agile methodology
+      and teamwork. We solved different challenges and developed a web project together.
+
+  - role: Co-founder
+    time: 2019 - 2021
+    company: Untitled Clothes Brand
+    details: |
+      I'm in charge of making clothes, maintaining our web systems and carrying
       out digital marketing campaigns on social networks for brand positioning.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
@@ -84,26 +107,29 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Java Script
-      level: 60%
+    - name: Github
+      level: 90%
 
     - name: React JS
-      level: 80%
-
-    - name: Ruby on Rails
-      level: 60%
-
-    - name: Ruby
-      level: 40%
-
-    - name: Posgresql
-      level: 60%
+      level: 70%
 
     - name: Linux
       level: 80%
 
+    - name: Ruby on Rails
+      level: 50%
+
+    - name: Ruby
+      level: 50%
+
+    - name: Java Script
+      level: 50%
+
     - name: Solidus
-      level: 60%
+      level: 30%
+
+    - name: Posgresql
+      level: 30%
 
 # NO MODIFICAR
 footer: >
