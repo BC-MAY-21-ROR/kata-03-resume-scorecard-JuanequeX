@@ -12,9 +12,9 @@ sidebar:
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: ramon.g.uz37@gmail.com
+  email: ramon.guzman@magmalabs.io
   phone:  314-142-28-86
-  website: # No agregar http://
+  website: juanequex.github.io
   linkedin: Juan Ramon Guzman Aguilar
   github: Juanequex
   gitlab:
@@ -56,21 +56,17 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I have some experience using frameworks like Ruby on rails and React JS to build e-commerce
-    platforms consume services by the api's from Solidus.
+    I have a Software Enginnering degree at Universidad de Colima, My working experience runs around ruby on rails, react JS and more recently, solidus.
 
-    In my time in bright coders academy, I developed a closer relationship to remote work culture,
-    adapted myself to work with different co-workers to develop some projects using scrum methodology
-    to improve ours communication and collaborative in the projects carried out.
+    My profesional career started at Bright Coders Academy, with a successful course on Ruby on Rails, a few months after i began working at MagmaLabs.
 
-    Also I was created tests using rspec in models and controllers into our final project in bright coders,
-    for to do this i'm used information provide by FactoryBot and Faker.
+    y actual role is RoR dev on MagmaLabs and mentoring at BrightCoders Academy. I‘m part of the Playas on tech community in Manzanillo and enjoy my time creating content and code for my personal brand.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Software Enginnering
     university: University of Colima
-    time: 2018 - current
+    time: 2018 - 2022
     details: |
       Thesis topic: E-commerce development with Solidus open source for local startup.
 
@@ -82,6 +78,18 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+  - role: Software Engineer
+    time: 2022 - current
+    company: MagmaLabs
+    details: |
+      Ruby on rails developer.
+
+  - role: Ruby on Rails Mentor
+    time: 2022 - current
+    company: BrightCoders Academy
+    details: |
+      My main role was solving student's doubts and teach good practices in software engineering
+
   - role: Ruby on Rails Web Developer
     time: 2021 - 2021
     company: Bright Coders Academy
@@ -108,28 +116,28 @@ skills:
 
   toolset:
     - name: Github
-      level: 90%
+      level: 80%
 
     - name: React JS
       level: 70%
 
     - name: Linux
-      level: 80%
+      level: 70%
 
     - name: Ruby on Rails
-      level: 50%
+      level: 60%
 
     - name: Ruby
-      level: 50%
+      level: 60%
 
     - name: Java Script
       level: 50%
 
     - name: Solidus
-      level: 30%
+      level: 50%
 
     - name: Posgresql
-      level: 30%
+      level: 40%
 
 # NO MODIFICAR
 footer: >
